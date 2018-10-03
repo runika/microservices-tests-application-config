@@ -1,0 +1,1 @@
+# microservices-tests-application-config
